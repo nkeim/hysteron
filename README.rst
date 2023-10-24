@@ -5,7 +5,7 @@ Interacting Hysteron Simulation
 
 Event-based simulation of hysterons (hysteretic 2-state subsystems).
 
-Written by Nathan C. Keim, based on algorithms and research by Joseph R. Paulsen and Nathan C. Keim.
+Written by Nathan C. Keim, based on algorithms and research by Joseph D. Paulsen and Nathan C. Keim.
 
 The core algorithm is in `hysteron/hysteron.py`.
 
